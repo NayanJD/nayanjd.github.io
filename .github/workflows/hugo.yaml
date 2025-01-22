@@ -58,12 +58,10 @@ jobs:
         run: |
           hugo \
             --baseURL "${{ steps.pages.outputs.base_url }}/"
+            --logLevel info
       - name: List files
         run: |
-          ls
-      - name: List files
-        run: |
-          ls ./public
+          ls ./themes
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
         with:
