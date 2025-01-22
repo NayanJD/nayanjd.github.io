@@ -57,7 +57,7 @@ jobs:
           TZ: America/Los_Angeles
         run: |
           hugo \
-            --baseURL nayanjd.github.io \
+            --baseURL "${{ steps.pages.outputs.base_url }}/" \
             --logLevel info
       - name: List files
         run: |
@@ -71,7 +71,7 @@ jobs:
   deploy:
     environment:
       name: github-pages
-      url: nayanjd.github.io
+      url: ${{ steps.deployment.outputs.page_url }}
     runs-on: ubuntu-latest
     needs: build
     steps:
