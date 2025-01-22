@@ -57,7 +57,7 @@ jobs:
           TZ: America/Los_Angeles
         run: |
           hugo \
-            --baseURL "${{ steps.pages.outputs.base_url }}/"
+            --baseURL "${{ steps.pages.outputs.base_url }}/" \
             --logLevel info
       - name: List files
         run: |
