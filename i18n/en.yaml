@@ -50,17 +50,17 @@
 
 ## Homepage head title
 - id: "head_title"
-  translation: "Demo site for Adritian - a high performance hugo theme by Adrián Moreno"
+  translation: "Nayan's Blog"
 
 - id: "head_description"
-  translation: "This hugo theme (Adritian) is based on Bootstrap and has features that make it suitable for a personal site, a portfolio or other kind of Single Page Applications."
+  translation: "A space of mine in this vast digital utopia"
 
 ## Homepage showcase
 - id: "showcase_title"
-  translation: "Welcome to the demo"
+  translation: ""
 
 - id: "showcase_subtitle"
-  translation: "Let's dive into an example"
+  translation: "Hey, I am Nayan!"
 
 - id: "showcase_description"
   translation: "This is a high performance theme for the Hugo static site generator. 
@@ -100,7 +100,7 @@
 
 ## Homepage about
 - id: "about_title"
-  translation: "Who am I?"
+  translation: "Senior Software Engineer"
 
 - id: "about_content"
   translation:  '<p class="lead">
