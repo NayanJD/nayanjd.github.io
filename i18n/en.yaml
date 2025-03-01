@@ -63,33 +63,11 @@
   translation: "Hey, I am Nayan!"
 
 - id: "showcase_description"
-  translation: "This is a high performance theme for the Hugo static site generator. 
-    This sample content can be edited in the locale files (as the theme supports translations).
-    <br>
-    You can download this theme from <a target='_blank' href='https://github.com/zetxek/adritian-free-hugo-theme'>github</a>, 
-    and see it live <a target='_blank' href='https://adritian-demo.vercel.app/'>as a demo site</a> 
-    or <a target='_blank' href='https://www.adrianmoreno.info'>a real one</a>.
-    <br>
-    The content you see so far in the homepage is:
-    <ul>
-      <li>Site logo/name: site config file (<code>hugo.toml</code>)</li>
-      <li>Site top menu: site config file (<code>hugo.toml</code>), look for the <code>[[languages.en.menus.header]]</code> section</li>
-      <li>This paragraph: <code>i18n/en.yaml</code> (for English)</li>
-    </ul>
-    Additionally, the order of the items in the homepage is configured in the <code>sections</code> array in the <code>hugo.toml</code> file:
-    <code>sections = [
-  \"showcase\",
-  \"about\",
-  \"education\",
-  \"experience\",
-  \"client-and-work\",
-  \"testimonial\",
-  \"contact\",
-  \"newsletter\",
-  ]</code><br/> 
-  The content of each section is defined in the <code>data/homepage.yml</code> file (ie: links to social sites, mail, ...).
-  <br/>
-  If you scroll this page you will see some hints on where the content comes from - all the way to the footer menu. These links come from the site config file (<code>hugo.toml</code>), look for the <code>[[languages.en.menus.footer]]</code> section."
+  translation: "I am a humble software developer from India who is just curious about everything. I am an avid reader and read mostly fictions and mangas (Japanese comics). Some of my favourites are Dune series (Frank Herbert), Century Trilogy (Ken Follet), Meluha Trilogy (Amish Tripathi) and many more. I am a coffee lover and nothing entices me more than a morning coffee at a quite cafe while reading a book. 
+
+<br/>
+
+I like to watch formula one. I do not travel much but enjoy it whenever I do. My zen setup is me sitting (or standing sometimes) in front of a desk with a macbook and airpods in my ears listening to random LoFis.  I am a sucker for desk setups and PC assembly. Hopefully, I would build an awesome one for myself one day." 
 
 - id: "showcase_button"
   translation: "Contact"
@@ -103,16 +81,13 @@
   translation: "Senior Software Engineer"
 
 - id: "about_content"
-  translation:  '<p class="lead">
-      Here you can add some information about you. A small excerpt that describes 
-      your experience, for example.   
-      <br/>
-      You explain something about your academic/study background, as well as your
-      preferred areas of work.
-      </p>
-      <p>The content for this section is defined in the <code>i18n/en.yaml</code> file, 
-      in the <code>about_content</code> item.
-      </p>'
+  translation:  '<p class="lead">I am a software engineer obsessed with everything computer science. I like to see systems as a whole, from user interactions to servers. I work primarily with server side applications but always visualise a system as an architect. I am applying my artistry as a cloud engineer with focus on containers. I am fascinated with container orchestrators especially kubernetes and also worked as a platform engineer, maintaining kubernetes clusters on hyperscalers like AWS and GCP.
+  </p><br/>
+
+<p>In my career, I have worked with various frameworks. Few of them are Golang (net/http, gorilla, go-zero etc.), Python + Django, NodeJs + Express etc. I code mostly in Golang now for server side and shell or python for scripting. </p>
+
+<p>I absolutely love learning new programming languages and explore different paradigms each of them offer. I started with C/C++ during my high school, Java & Matlab while at college and all the way to Golang, Javascript, Python & Shell during my career. I love the simplicity and powerful tooling of Golang but at the same time, admire C++ for its multi-paradigm nature and latest features from C++20</p>.
+'
 
 - id: "about_button"
   translation: "About Me"
@@ -196,19 +171,19 @@
   translation: "Phone Number"
 
 - id: "contact_phone_number"
-  translation: "Defined in i18n/en.yaml (contact_phone_number)"
+  translation: "(+91) 8473954673"
 
 - id: "contact_email_title"
   translation: "Email"
 
 - id: "contact_email_email"
-  translation: 'Defined in i18n/en.yaml (contact_email_email)'
+  translation: 'dastms@gmail.com'
 
 - id: "contact_address_title"
   translation: "Address"
 
 - id: "contact_address_address"
-  translation: "Defined in i18n/en.yaml (contact_address_address)"
+  translation: "Assam, India"
 
 - id: "contact_button"
   translation: "Send Message"
