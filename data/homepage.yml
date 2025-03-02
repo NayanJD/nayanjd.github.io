@@ -3,9 +3,10 @@
 # showcase
 showcase:
   enable: true
+# https://www.pexels.com/photo/laptop-displaying-a-white-screen-6372940/
   image:
-    x: "images/showcase/showcase.png"
-    _2x: "images/showcase/showcase@2x.png"
+    x: "images/showcase/showcase-new.jpg"
+    _2x: "images/showcase/showcase-new.jpg"
   imageMobile:
     x: "images/showcase/showcase-mobile.jpg"
 
