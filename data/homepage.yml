@@ -64,15 +64,14 @@ showcase:
     #
     # - icon: "square-xing"
     #   URL: "https://www.adrianmoreno.info/"
-# about
 about:
-  enable: true
+  enable: true 
   button:
     icon: "icon-user"
     URL: "https://www.linkedin.com/in/nayan-jyoti-das"
   image:
-    x: "images/about/user-picture.png"
-    _2x: "images/about/user-picture@2x.png"
+    x: "images/about/user-picture.JPG"
+    _2x: "images/about/user-picture.JPG"
 
 # education
 education:

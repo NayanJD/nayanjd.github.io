@@ -86,7 +86,7 @@ I like to watch formula one. I do not travel much but enjoy it whenever I do. My
 
 <p>In my career, I have worked with various frameworks. Few of them are Golang (net/http, gorilla, go-zero etc.), Python + Django, NodeJs + Express etc. I code mostly in Golang now for server side and shell or python for scripting. </p>
 
-<p>I absolutely love learning new programming languages and explore different paradigms each of them offer. I started with C/C++ during my high school, Java & Matlab while at college and all the way to Golang, Javascript, Python & Shell during my career. I love the simplicity and powerful tooling of Golang but at the same time, admire C++ for its multi-paradigm nature and latest features from C++20</p>.
+<p>I absolutely love learning new programming languages and explore different paradigms each of them offer. I started with C/C++ during my high school, Java & Matlab while at college and all the way to Golang, Javascript, Python & Shell during my career. I love the simplicity and powerful tooling of Golang but at the same time, admire C++ for its multi-paradigm nature and latest features from C++20.</p>
 '
 
 - id: "about_button"
