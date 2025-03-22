@@ -49,7 +49,7 @@ target = "assets/css/bootstrap-print.css"
 [params]
 # logo = "Nayan"
 title = "Nayan's Blog"
-description = 'A place for me to showcase and rant!'
+description = 'A space of mine in this vast digital utopia!'
 images = ['/img/og-img.png']
 sections = [
   "showcase",
