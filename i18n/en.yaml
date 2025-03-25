@@ -63,7 +63,7 @@
   translation: "Hey, I am Nayan!"
 
 - id: "showcase_description"
-  translation: "I am a humble software developer from India who is just curious about everything. I am an avid reader and read mostly fictions and mangas (Japanese comics). Some of my favourites are Dune series (Frank Herbert), Century Trilogy (Ken Follet), Meluha Trilogy (Amish Tripathi) and many more. I am a coffee lover and nothing entices me more than a morning coffee at a quite cafe while reading a book. 
+  translation: "<p>I am a humble software developer from India who is just curious about everything. I am an avid reader and read mostly fictions and mangas (Japanese comics). Some of my favourites are Dune series (Frank Herbert), Century Trilogy (Ken Follet), Meluha Trilogy (Amish Tripathi) and many more. I am a coffee lover and nothing entices me more than a morning coffee at a quite cafe while reading a book.</p>
 
 <br/>
 
@@ -81,10 +81,10 @@
   translation: "Senior Software Engineer"
 
 - id: "about_content"
-  translation:  '<p class="lead">I am a software engineer obsessed with everything computer science. I like to see systems as a whole, from user interactions to servers. I work primarily with server side applications but always visualise a system as an architect. I am applying my artistry as a cloud engineer with focus on containers. I am fascinated with container orchestrators especially kubernetes and also worked as a platform engineer, maintaining kubernetes clusters on hyperscalers like AWS and GCP.
-  </p>
+  translation:  '<p>I am a software engineer obsessed with everything computer science. I like to see systems as a whole, from user interactions to servers. I work primarily with server side applications but always visualise a system as an architect. I am applying my artistry as a cloud engineer with focus on containers. I am fascinated with container orchestrators especially kubernetes and also worked as a platform engineer, maintaining kubernetes clusters on hyperscalers like AWS and GCP.
+  </p><br/>
 
-<p>In my career, I have worked with various frameworks. Few of them are Golang (net/http, gorilla, go-zero etc.), Python + Django, NodeJs + Express etc. I code mostly in Golang now for server side and shell or python for scripting. </p>
+<p>In my career, I have worked with various frameworks. Few of them are Golang (net/http, gorilla, go-zero etc.), Python + Django, NodeJs + Express etc. I code mostly in Golang now for server side and shell or python for scripting. </p><br/>
 
 <p>I absolutely love learning new programming languages and explore different paradigms each of them offer. I started with C/C++ during my high school, Java & Matlab while at college and all the way to Golang, Javascript, Python & Shell during my career. I love the simplicity and powerful tooling of Golang but at the same time, admire C++ for its multi-paradigm nature and latest features from C++20.</p>
 '
