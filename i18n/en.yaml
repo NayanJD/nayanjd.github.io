@@ -67,7 +67,7 @@
 
 <br/>
 
-I like to watch formula one. I do not travel much but enjoy it whenever I do. My zen setup is me sitting (or standing sometimes) in front of a desk with a macbook and airpods in my ears listening to random LoFis.  I am a sucker for desk setups and PC assembly. Hopefully, I would build an awesome one for myself one day." 
+<p>I like to watch formula one. I do not travel much but enjoy it whenever I do. My zen setup is me sitting (or standing sometimes) in front of a desk with a macbook and airpods in my ears listening to random LoFis.  I am a sucker for desk setups and PC assembly. Hopefully, I would build an awesome one for myself one day.</p>" 
 
 - id: "showcase_button"
   translation: "Contact"
@@ -82,7 +82,7 @@ I like to watch formula one. I do not travel much but enjoy it whenever I do. My
 
 - id: "about_content"
   translation:  '<p class="lead">I am a software engineer obsessed with everything computer science. I like to see systems as a whole, from user interactions to servers. I work primarily with server side applications but always visualise a system as an architect. I am applying my artistry as a cloud engineer with focus on containers. I am fascinated with container orchestrators especially kubernetes and also worked as a platform engineer, maintaining kubernetes clusters on hyperscalers like AWS and GCP.
-  </p><br/>
+  </p>
 
 <p>In my career, I have worked with various frameworks. Few of them are Golang (net/http, gorilla, go-zero etc.), Python + Django, NodeJs + Express etc. I code mostly in Golang now for server side and shell or python for scripting. </p>
 
